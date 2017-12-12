@@ -102,7 +102,7 @@ code {
 	font-size: 18px;
 	padding: 0px 10px 0 10px;
 }
-/*THESE LAST 2 MAKE SAME PAGE LINKS WORK RIGHT AROUND THE HEADER*/
+/*THESE MAKE LINKS WORK AROUND HEADER*/
 
 h2 {
 	position: relative;
